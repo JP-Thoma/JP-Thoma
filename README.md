@@ -1,8 +1,8 @@
-# Empower Peacebuilding, Diplomacy & Humanitarian Action with AI  
+# Enable Peacebuilding, Diplomacy & Humanitarian Action with AI  
 
 ## Hi, I am **Jan** 
 
-🔹 **AI for Peacebuilding** | 🔹 **Data Analytics Consultant** | 🔹 **Public Sector Innovator**  
+🔹 **AI for Peacebuilding**  🔹 **Data Analytics Consultant**  🔹 **Public Sector Innovator**  
 
 I am driven by building AI solutions that **empower diplomacy, peacebuilding, and humanitarian action**—using technology to drive meaningful impact in the world.  
 
