@@ -31,10 +31,7 @@ I am driven by building AI solutions that **empower diplomacy, peacebuilding, an
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-0079C1?style=flat&logo=esri&logoColor=white)  
 
 **Cloud & Tools**:  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) | ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 
 ---
 
@@ -46,7 +43,7 @@ I am driven by building AI solutions that **empower diplomacy, peacebuilding, an
 
 ## 🤝 Let's Connect  
 
-💼 **LinkedIn:** [linkedin.com/jan-thoma](https://linkedin.com/jan-thoma)  
+💼 **LinkedIn:** [linkedin.com/jan-thoma](https://linkedin.com/janphillipthoma)  
 🌍 **Website:** [janphillipthoma.com](https://janphillipthoma.com)  
 
 🔭 Always open to collaborations & discussions on **AI for good**!  
