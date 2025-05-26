@@ -10,13 +10,13 @@ I am driven by building AI solutions that **empower diplomacy, peacebuilding, an
 
 ## What I Do  
 
-💡 **GenAI & NLP for Diplomacy** → Enhancing multilingual communication, misinformation detection & policy analysis.  
+💡 **GenAI for Diplomacy & Peacebuilding** → Enhancing multilingual communication, misinformation detection & policy analysis.  
 
 🛰️ **Computer Vision for Humanitarian Action** → Leveraging satellite imagery and spatial data for crisis monitoring & disaster response.  
 
-📊 **Data Analytics for Public Sector AI** → Driving AI-driven decision-making in governance & conflict prevention.  
+📊 **Data Analytics for Public Sector** → Driving AI-driven decision-making in governance & conflict prevention.  
 
-🌐 **AI Policy & Ethics** → Advocating responsible AI adoption in international institutions.  
+🌐 **AI Strategy & Policy** → Selecting sucessful use cases and advocating responsible AI adoption in public institutions.  
 
 ---
 
